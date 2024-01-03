@@ -1,7 +1,4 @@
-Entities:
-  Subscriber
-  Trainer
-  Equipment
+Entities: Subscriber, Trainer, Equipment.
   
 Mapping Routes for the subscriber:
   Retrieving the list of subscribers:
