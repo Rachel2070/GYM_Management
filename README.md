@@ -29,11 +29,11 @@ Mapping Routes for the trainer:
 Mapping Routes for the equipment:
   Retrieving the list of equipment:
     GET https://localhost:7152/api/prod
-  Retrieving a device by ID:
+  Retrieving a equipment by ID:
     GET https://localhost:7152/api/prod/{id}
-  Adding a device:
+  Adding a equipment:
     POST https://localhost:7152/api/prod
-  device update:
+  Equipment update:
     PUT https://localhost:7152/api/prod/${id}
-  Device deletion:
+  Equipment deletion:
     DELET https://localhost:7152/api/prod/${id}
